@@ -220,6 +220,7 @@ function convertVar(){
 console.log(convertVar());
 
 //? Виды функций
+
 //1 function decloration. Даже если не объявлена - будет выполняться
 FuncDic("Вызов до функции");
 function FuncDic(a){
